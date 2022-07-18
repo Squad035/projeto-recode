@@ -4,36 +4,7 @@
   box-sizing: border-box;
 }
 
-/* NAVBAR */
-
-.logo {
-  width: 100px;
-  height: 80px;
-}
-
-.bg-nav {
-  background-color: #596c0f;
-}
-.btn-nav {
-  background: #d0ef8e;
-  padding: 10px 20px;
-  border-radius: 4px;
-  text-decoration: none;
-  color: #596c0f;
-}
-
-.btn-nav:hover {
-  background: #596c0f;
-  padding: 10px 20px;
-  border-radius: 4px;
-  text-decoration: none;
-  color: #d0ef8e;
-}
-
-.mr-separador {
-  margin-right: 40px;
-}
-FIM NAVBAR body {
+body {
   background-color: #e9e9e9;
 }
 
@@ -61,7 +32,7 @@ FIM NAVBAR body {
   padding: 40px;
   display: inline-block;
   width: 100%;
-  min-width: 540px;
+  min-width: 300px;
   border-radius: 10px;
   text-align: left;
 }
