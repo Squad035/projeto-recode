@@ -115,3 +115,10 @@ body {
     margin-bottom: 5px;
   }
 }
+
+@media (max-width: 464px) {
+  .centralizarQuemSomos {
+    text-align: center;
+    background-color: red;
+  }
+}
